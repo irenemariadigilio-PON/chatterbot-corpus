@@ -1,0 +1,21 @@
+categories:
+  - orario
+
+conversations:
+  - - Qual è l’orario di apertura della segreteria?
+    - La segreteria è aperta dalle 10:00 alle 14:00 e dalle 15:00 alle 18:30.
+
+  - - Quando posso fare l’iscrizione online?
+    - Le iscrizioni online si effettuano nel mese di Gennaio.
+
+  - - Quali documenti servono per l’iscrizione?
+    - Documento d’identità e codice fiscale dell’alunno e dei genitori.
+
+  - - Quali sono i codici meccanografici della scuola?
+    - MTPS01701A per i Licei e MTTH01701X per il Tecnico Trasporti e Logistica.
+
+  - - L’orario scolastico varia per indirizzo?
+    - Sì, ogni indirizzo ha una distribuzione oraria specifica delle discipline, ma la struttura settimanale rimane simile.
+
+  - - L’istituto dispone di sportello informativo?
+    - Sì, presso la segreteria è attivo uno sportello di supporto alle famiglie.
